@@ -2,6 +2,8 @@
 #include <windows.h>
 #include <time.h>
 
+//If your computer is 32-bit, change longlong to int!!!!
+
 long long Input_Add[1000];
 long long Sort_Add[1000];
 long long Input_MAX=1000;

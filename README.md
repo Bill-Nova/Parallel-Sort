@@ -1,6 +1,6 @@
 To be honest, if your computer is not a cluster, it can't be very fast, because you can't achieve parallelism >= N
 
-I only describe the idea because the code is very simple
+I only describe the idea because the code is very simple(I didn't write a faster version of the code because my computer can't test this.....)
 
 For sequential programs, speed = number of instructions executed, but for parallel programs, things are different.
 
